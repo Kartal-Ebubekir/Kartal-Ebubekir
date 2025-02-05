@@ -7,7 +7,7 @@
 ## 📫 How to Reach Me
 - 🌍 GitHub: [Kartal-Ebubekir](https://github.com/Kartal-Ebubekir)
 - 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: [Email](ebubekirkartal271@gmail.com)
+- Email: [Email](mailto:ebubekirkartal271@gmail.com)
 
 ## 📂 Projects
 - 🚀 Check out my repositories on [GitHub]([https://github.com/Kartal-Ebubekir?tab=repositories](https://github.com/Kartal-Ebubekir/C-Dilinde-Yaz-lm-Telefon-Rehberi-Uygulamas-)).
