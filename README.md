@@ -2,7 +2,6 @@
 
 ## 👋 About Me
 - 🎓 Computer Science student at Medeniyet University.
-- 💻 Languages: Python, C.
 
 ## 📫 How to Reach Me
 - 🌍 GitHub: [Kartal-Ebubekir](https://github.com/Kartal-Ebubekir)
